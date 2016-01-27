@@ -63,6 +63,7 @@ hi link oclStringFunction Function
 hi link oclClassFunction Function
 hi link oclOrderedSetFunction Function
 hi link oclSetFunction Function
+hi link oclCollectionFunction Function
 
 hi link oclContext Identifier
 hi link oclArgument Identifier
